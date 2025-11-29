@@ -55,6 +55,10 @@ Para rodar os testes automatizados:
 ```bash
 npm test
 ```
+## Divisão de tarefas, 50% 50% dos issues
+
+Rhuan responsavél pela criação conceitual do projeto, além da criação da colaboração do github e os 3 primeiros issues do projeto
+André responsavél pelo commit final assim como a resuloção dos 3 ultimos issues do projeto, e a revisão final de todos os arquivos atuaizados para a postagem do trabalho
 
 ## Integrantes do Grupo
 
